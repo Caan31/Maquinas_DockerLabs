@@ -7,4 +7,5 @@ Este espacio me ayuda a seguir mi progreso y mejorar mis conocimientos en cibers
 
 - [TRUST](/MAQUINA_TRUST.pdf) – ( Enumeración, Gobuster, Hydra, Escalada de privilegios )
 - [TPROOT](/MAQUINA_TPROOT.pdf) – ( Enumeración, Gobuster, Metasploit)
+- [VACACIONES](/MAQUINA_VACACIONES.pdf) – ( Enumeración, Medusa, Escalada de privilegios)
 
