@@ -30,6 +30,8 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PEQUEÑAS MENTIROSAS](/MAQUINA_PEQUENAS_MENTIROSAS.pdf)
   _Enumeración, Hydra, Escalada de privilegios_ 
 
+- [MAQUINA NODE CLIMB](/MAQUINA_NODECLIMB.pdf).
+  _Enumeración, Zip2John, John, Escalada de privilegios_
 ---
 
 ##  Objetivo del repositorio
