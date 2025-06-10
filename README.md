@@ -35,6 +35,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA LIBRARY](/MAQUINA_LIBRARY.pdf).
   _Enumeración, Hydra, Gobuster, Escalada de privilegios_
+  
+- [MAQUINA CONSOLELOG](/MAQUINA_CONSOLELOG.pdf).
+  _Enumeración, Hydra, Gobuster, Escalada de privilegios_
 ---
 
 ##  Objetivo del repositorio
