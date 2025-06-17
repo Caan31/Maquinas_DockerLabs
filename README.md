@@ -30,15 +30,20 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PEQUEÑAS MENTIROSAS](/MAQUINA_PEQUENAS_MENTIROSAS.pdf)
   _Enumeración, Hydra, Escalada de privilegios_ 
 
-- [MAQUINA NODE CLIMB](/MAQUINA_NODECLIMB.pdf).
+- [MAQUINA NODE CLIMB](/MAQUINA_NODECLIMB.pdf)
   _Enumeración, Zip2John, John, Escalada de privilegios_
 
-- [MAQUINA LIBRARY](/MAQUINA_LIBRARY.pdf).
+- [MAQUINA LIBRARY](/MAQUINA_LIBRARY.pdf)
   _Enumeración, Hydra, Gobuster, Escalada de privilegios_
   
-- [MAQUINA CONSOLELOG](/MAQUINA_CONSOLELOG.pdf).
+- [MAQUINA CONSOLELOG](/MAQUINA_CONSOLELOG.pdf)
   _Enumeración, Hydra, Gobuster, Escalada de privilegios_
 ---
+
+### 🟠 Dificultad: Media
+
+- [MAQUINA PING PONG](/MAQUINA_PING_PONG.pdf)
+  _Enumeración, Gobuster, Reverse Shell, Escalada de privilegios, TTY_
 
 ##  Objetivo del repositorio
 
