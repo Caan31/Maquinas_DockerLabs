@@ -41,6 +41,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA UPLOAD](/MAQUINA_UPLOAD.pdf)
   _Enumeración, Gobuster, Reverse Shell, Escalada de privilegios_
+
+- [MAQUINA MOVE](/MAQUINA_MOVE.pdf)
+  _Enumeración, Gobuster, Exploit, Escalada de privilegios_
 ---
 
 ### 🟠 Dificultad: Media
