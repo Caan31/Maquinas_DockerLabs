@@ -24,7 +24,7 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA OBSESSION](/MAQUINA_OBSESSION.pdf)
   _Enumeración,Ftp, Hydra, Escalada de privilegios_ 
-
+---
 ### 🟢 Dificultad: Fácil
 
 - [MAQUINA PEQUEÑAS MENTIROSAS](/MAQUINA_PEQUENAS_MENTIROSAS.pdf)
@@ -38,6 +38,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
   
 - [MAQUINA CONSOLELOG](/MAQUINA_CONSOLELOG.pdf)
   _Enumeración, Hydra, Gobuster, Escalada de privilegios_
+
+- [MAQUINA UPLOAD](/MAQUINA_UPLOAD.pdf)
+  _Enumeración, Gobuster, Reverse Shell, Escalada de privilegios_
 ---
 
 ### 🟠 Dificultad: Media
