@@ -44,6 +44,10 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA MOVE](/MAQUINA_MOVE.pdf)
   _Enumeración, Gobuster, Exploit, Escalada de privilegios_
+  
+- [MAQUINA SECRETJENKINS](/MAQUINA_SECRETJENKINS.pdf)
+  _Enumeración, Jenkins, Exploit, Escalada de privilegios_
+  
 ---
 
 ### 🟠 Dificultad: Media
