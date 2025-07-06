@@ -47,6 +47,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
   
 - [MAQUINA SECRETJENKINS](/MAQUINA_SECRETJENKINS.pdf)
   _Enumeración, Jenkins, Exploit, Escalada de privilegios_
+
+- [MAQUINA BACKEND](/MAQUINA_BACKEND.pdf)
+  _Enumeración, Sqlmap, MD5, Escalada de privilegios_
   
 ---
 
