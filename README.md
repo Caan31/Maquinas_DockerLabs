@@ -50,6 +50,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA BACKEND](/MAQUINA_BACKEND.pdf)
   _Enumeración, Sqlmap, MD5, Escalada de privilegios_
+
+- [MAQUINA VULNVAULT](/MAQUINA_VULNVAULT.pdf)
+  _Enumeración, Command Injection, id_rsa, Escalada de privilegios, pspy_
   
 ---
 
