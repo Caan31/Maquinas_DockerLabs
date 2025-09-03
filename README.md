@@ -58,8 +58,11 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
   _Enumeración, Gobuster, Enum4linux, Crackmapexec, Smbmap, Samba, Reverse Shell, Tty, Escalada de privilegios_
 
 - [MAQUINA REFLECTION](/MAQUINA_REFLECTION.pdf)
-  _Enumeración, Enum4linux, Escalada de privilegios_
+  _Enumeración, SUID, Escalada de privilegios_
   
+- [MAQUINA EXTRAVIADO](/MAQUINA_EXTRAVIADO.pdf)
+  _Enumeración, Base64, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
