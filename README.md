@@ -63,6 +63,10 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA EXTRAVIADO](/MAQUINA_EXTRAVIADO.pdf)
   _Enumeración, Base64, Escalada de privilegios_
 
+- [MAQUINA INTERNSHIP](/MAQUINA_INTERNSHIP.pdf)
+  _Enumeración, SQL inyection, dirb, ROT13, Hydra, TTy, ps aux, Reverse Shell, Steghide, Escalada de privilegios_
+
+
 ---
 
 ### 🟠 Dificultad: Media
