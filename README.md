@@ -69,6 +69,8 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA BALUFOOD](/MAQUINA_BALUFOOD.pdf)
   _Enumeración, Escalada de privilegios_
 
+- [MAQUINA GALERIA](/MAQUINA_GALERIA.pdf)
+  _Enumeración, Dirb, PHP, Reverse Shell, Strings, PATH, Escalada de privilegios_
 
 ---
 
