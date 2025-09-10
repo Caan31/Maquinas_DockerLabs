@@ -72,6 +72,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA GALERIA](/MAQUINA_GALERIA.pdf)
   _Enumeración, Dirb, PHP, Reverse Shell, Strings, PATH, Escalada de privilegios_
 
+- [MAQUINA BYPASSME](/MAQUINA_BYPASSME.pdf)
+  _Enumeración, Dirb, SQL Inyection, Reverse Shell, CRON, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
