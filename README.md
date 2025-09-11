@@ -75,6 +75,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA BYPASSME](/MAQUINA_BYPASSME.pdf)
   _Enumeración, Dirb, SQL Inyection, Reverse Shell, CRON, Escalada de privilegios_
 
+- [MAQUINA GROOTI](/MAQUINA_GROOTI.pdf)
+  _Enumeración, Dirb, MYSQL, Hydra,  CRON, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
