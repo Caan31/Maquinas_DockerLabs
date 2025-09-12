@@ -77,6 +77,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA GROOTI](/MAQUINA_GROOTI.pdf)
   _Enumeración, Dirb, MYSQL, Hydra,  CRON, Escalada de privilegios_
+  
+- [MAQUINA WALKINGCMS](/MAQUINA_WALKINGCMS.pdf)
+  _Enumeración, Dirb, WordPress, Wpscan, Reverse Shell, Escalada de privilegios_
 
 ---
 
