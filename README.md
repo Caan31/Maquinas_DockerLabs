@@ -81,6 +81,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA WALKINGCMS](/MAQUINA_WALKINGCMS.pdf)
   _Enumeración, Dirb, WordPress, Wpscan, Reverse Shell, Escalada de privilegios_
 
+- [MAQUINA SHOWTIME](/MAQUINA_SHOWTIME.pdf)
+  _Enumeración, Burp Suite, Sqlmap, Python, Reverse Shell, Hydra, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
