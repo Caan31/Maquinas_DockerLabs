@@ -84,6 +84,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA SHOWTIME](/MAQUINA_SHOWTIME.pdf)
   _Enumeración, Burp Suite, Sqlmap, Python, Reverse Shell, Hydra, Escalada de privilegios_
 
+- [MAQUINA MIRAME](/MAQUINA_MIRAME.pdf)
+  _Enumeración, Burp Suite, Sqlmap, Steghide, Stegcracker, zip7john, john , Escalada de privilegios SUID_
+
 ---
 
 ### 🟠 Dificultad: Media
