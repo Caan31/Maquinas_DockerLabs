@@ -88,7 +88,10 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
   _Enumeración, Burp Suite, Sqlmap, Steghide, Stegcracker, zip7john, john , Escalada de privilegios SUID_
 
 - [MAQUINA PINGUINAZO](/MAQUINA_PINGUINAZO.pdf)
-  _Enumeración, STTI, Reverse Shell, Escalada de privilegios (java)
+  _Enumeración, STTI, Reverse Shell, Escalada de privilegios (java)_
+
+- [MAQUINA BALULERO](/MAQUINA_BALULERO.pdf)
+  _Enumeración, Pspy64, Escalada de privilegios_
 
 ---
 
