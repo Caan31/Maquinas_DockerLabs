@@ -93,6 +93,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA BALULERO](/MAQUINA_BALULERO.pdf)
   _Enumeración, Pspy64, Escalada de privilegios_
 
+- [MAQUINA CHOCOLATELOVERS](/MAQUINA_CHOCOLATELOVERS.pdf)
+  _Enumeración, Nibbleblog, Reverse Shell Pspy64, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
