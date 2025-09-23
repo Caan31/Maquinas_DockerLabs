@@ -96,6 +96,10 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA CHOCOLATELOVERS](/MAQUINA_CHOCOLATELOVERS.pdf)
   _Enumeración, Nibbleblog, Reverse Shell Pspy64, Escalada de privilegios_
 
+- [MAQUINA ESCOLARES](/MAQUINA_ESCOLARES.pdf)
+  _Enumeración, Cupp, Wpscan, Reverse Shell, Escalada de privilegios_
+
+
 ---
 
 ### 🟠 Dificultad: Media
