@@ -99,6 +99,8 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA ESCOLARES](/MAQUINA_ESCOLARES.pdf)
   _Enumeración, Cupp, Wpscan, Reverse Shell, Escalada de privilegios_
 
+- [MAQUINA ANONYMOUSPINGU](/MAQUINA_ANONYMOUSPINGU.pdf)
+  _Enumeración, Ftp, Reverse Shell, Escalada de privilegios (quitar contraseña root)_
 
 ---
 
