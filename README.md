@@ -102,6 +102,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA ANONYMOUSPINGU](/MAQUINA_ANONYMOUSPINGU.pdf)
   _Enumeración, Ftp, Reverse Shell, Escalada de privilegios (quitar contraseña root)_
 
+- [MAQUINA FILE](/MAQUINA_FILE.pdf)
+  _Enumeración, Ftp, Reverse Shell, Linux-Su-Force, Steghide, Stegcracker, CrackStation,  Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
