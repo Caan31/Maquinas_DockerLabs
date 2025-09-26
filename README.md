@@ -105,6 +105,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA FILE](/MAQUINA_FILE.pdf)
   _Enumeración, Ftp, Reverse Shell, Linux-Su-Force, Steghide, Stegcracker, CrackStation,  Escalada de privilegios_
 
+- [MAQUINA FINDYOURSTYLE](/MAQUINA_FINDYOURSTYLE.pdf)
+  _Enumeración, Drupal, Metaesploit, Reverse Shell, LinPeas, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
