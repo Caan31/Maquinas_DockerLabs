@@ -108,6 +108,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA FINDYOURSTYLE](/MAQUINA_FINDYOURSTYLE.pdf)
   _Enumeración, Drupal, Metaesploit, Reverse Shell, LinPeas, Escalada de privilegios_
 
+- [MAQUINA WHOAMI](/MAQUINA_WHOAMI.pdf)
+  _Enumeración, Dirb, WordPress, CVE-2021 (Calendar 5.16), Reverse Shell, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
