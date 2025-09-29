@@ -111,6 +111,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA WHOAMI](/MAQUINA_WHOAMI.pdf)
   _Enumeración, Dirb, WordPress, CVE-2021 (Calendar 5.16), Reverse Shell, Escalada de privilegios_
 
+- [MAQUINA JENHACK](/MAQUINA_JENHACK.pdf)
+  _Enumeración, Jenkins, Reverse Shell, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
