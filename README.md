@@ -114,6 +114,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA JENHACK](/MAQUINA_JENHACK.pdf)
   _Enumeración, Jenkins, Reverse Shell, Escalada de privilegios_
 
+- [MAQUINA AMOR](/MAQUINA_AMOR.pdf)
+  _Enumeración, Hydra, Steghide, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
