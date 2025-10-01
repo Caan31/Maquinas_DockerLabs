@@ -117,6 +117,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA AMOR](/MAQUINA_AMOR.pdf)
   _Enumeración, Hydra, Steghide, Escalada de privilegios_
 
+- [MAQUINA AGUADEMAYO](/MAQUINA_AGUADEMAYO.pdf)
+  _Enumeración, Dirb, Dcode.fr, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
