@@ -123,6 +123,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PRESSENTER](/MAQUINA_PRESSENTER.pdf)
   _Enumeración, Dirb, WpScan, Reverse Shell, LinPeas, MySQL, Escalada de privilegios_
 
+- [MAQUINA LOS 40 LADRONES](/MAQUINA_LOS40LADRONES.pdf)
+  _Enumeración, Gobuster, Knock, Hydra, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
