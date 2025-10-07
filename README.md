@@ -126,7 +126,7 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA LOS 40 LADRONES](/MAQUINA_LOS40LADRONES.pdf)
   _Enumeración, Gobuster, Knock, Hydra, Escalada de privilegios_
 
-- [MAQUINA PICADILLY](/MAQUINA_PIACDILLY.pdf)
+- [MAQUINA PICADILLY](/MAQUINA_PICADILLY.pdf)
   _Enumeración, Gobuster, Php, Reverse Shell, Escalada de privilegios_
 
 ---
