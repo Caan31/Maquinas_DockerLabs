@@ -129,6 +129,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PICADILLY](/MAQUINA_PICADILLY.pdf)
   _Enumeración, Gobuster, Php, Reverse Shell, Escalada de privilegios_
 
+- [MAQUINA WINTERFELL](/MAQUINA_WINTERFELL.pdf)
+  _Enumeración, Gobuster, SMBClient, Crackmapexec, Escalada de privilegios_
+
 ---
 
 ### 🟠 Dificultad: Media
