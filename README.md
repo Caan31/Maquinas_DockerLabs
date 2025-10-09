@@ -134,7 +134,10 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA PNTOPNTOBARRA](/MAQUINA_PNTOPNTOBARRA.pdf)
   _Enumeración, Gobuster, LFI, id_rsa, Escalada de privilegios_
-  
+
+- [MAQUINA PARADISE](/MAQUINA_PARADISE.pdf)
+  _Enumeración, Base64, Hydra, Escalada de privilegios_
+ 
 ---
 
 ### 🟠 Dificultad: Media
