@@ -132,6 +132,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA WINTERFELL](/MAQUINA_WINTERFELL.pdf)
   _Enumeración, Gobuster, SMBClient, Crackmapexec, Escalada de privilegios_
 
+- [MAQUINA PNTOPNTOBARRA](/MAQUINA_PNTOPNTOBARRA.pdf)
+  _Enumeración, Gobuster, LFI, id_rsa, Escalada de privilegios_
+  
 ---
 
 ### 🟠 Dificultad: Media
