@@ -137,6 +137,11 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA PARADISE](/MAQUINA_PARADISE.pdf)
   _Enumeración, Base64, Hydra, Escalada de privilegios_
+
+- [MAQUINA STELLARJWT](/MAQUINA_STELLARJWT.pdf)
+  _Enumeración, Escalada de privilegios_
+
+
  
 ---
 
