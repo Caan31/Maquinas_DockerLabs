@@ -141,6 +141,8 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA STELLARJWT](/MAQUINA_STELLARJWT.pdf)
   _Enumeración, Escalada de privilegios_
 
+- [MAQUINA DOCKERLABS](/MAQUINA_DOCKERLABS.pdf)
+  _Enumeración, Php, Reverse Shell, Escalada de privilegios_
 
  
 ---
