@@ -147,6 +147,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA ELEVATOR](/MAQUINA_ELEVATOR.pdf)
   _Enumeración, Gobuster, php-jpg,  Reverse Shell, Escalada de privilegios_
 
+- [MAQUINA PATRIAQUERIDA](/MAQUINA_PATRIAQUERIDA.pdf)
+  _Enumeración, Gobuster, Path Transversal, Escalada de privilegios_
+
  
 ---
 
