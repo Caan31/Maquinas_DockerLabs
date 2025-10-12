@@ -150,7 +150,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PATRIAQUERIDA](/MAQUINA_PATRIAQUERIDA.pdf)
   _Enumeración, Gobuster, Path Transversal, Escalada de privilegios_
 
- 
+- [MAQUINA WALKING DEAD](/MAQUINA_WALKING_DEAD.pdf)
+  _Enumeración, Gobuster, Reverse Shell, Escalada de privilegios SUID_
+
 ---
 
 ### 🟠 Dificultad: Media
