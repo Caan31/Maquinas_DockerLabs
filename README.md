@@ -153,6 +153,11 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA WALKING DEAD](/MAQUINA_WALKING_DEAD.pdf)
   _Enumeración, Gobuster, Reverse Shell, Escalada de privilegios SUID_
 
+- [MAQUINA PKGPOISON](/MAQUINA_PKGPOISON.pdf)
+  _Enumeración, Gobuster, Hydra, Escalada de privilegios_
+
+
+
 ---
 
 ### 🟠 Dificultad: Media
