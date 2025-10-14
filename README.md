@@ -156,7 +156,8 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PKGPOISON](/MAQUINA_PKGPOISON.pdf)
   _Enumeración, Gobuster, Hydra, Escalada de privilegios_
 
-
+- [MAQUINA FORBIDDENHACK](/MAQUINA_FORBIDDENHACK.pdf)
+  _Enumeración, ByPass, Burp Suite, Ffuf, LFI, Reverse Shell,Escalada de privilegios_
 
 ---
 
