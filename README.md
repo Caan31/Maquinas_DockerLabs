@@ -159,6 +159,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA FORBIDDENHACK](/MAQUINA_FORBIDDENHACK.pdf)
   _Enumeración, ByPass, Burp Suite, Ffuf, LFI, Reverse Shell,Escalada de privilegios_
 
+- [MAQUINA INFLUENCERHATE](/MAQUINA_INFLUENCERHATE.pdf)
+  _Enumeración, Ataque HTTP, Hydra, Burp Suite, Gobuster, Wfuzz, Escalada de privilegios (ataque fuerza bruta root)_
+
 ---
 
 ### 🟠 Dificultad: Media
