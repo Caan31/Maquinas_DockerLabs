@@ -162,6 +162,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA INFLUENCERHATE](/MAQUINA_INFLUENCERHATE.pdf)
   _Enumeración, Ataque HTTP, Hydra, Burp Suite, Gobuster, Wfuzz, Escalada de privilegios (ataque fuerza bruta root)_
 
+- [MAQUINA WINFAKE](/MAQUINA_WINFAKE.pdf)
+  _Enumeración, Hydra, Escalada de privilegios (BUSCANDO MUCHO)_
+
 ---
 
 ### 🟠 Dificultad: Media
