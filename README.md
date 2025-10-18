@@ -172,6 +172,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA PING PONG](/MAQUINA_PING_PONG.pdf)
   _Enumeración, Gobuster, Reverse Shell, Escalada de privilegios, TTY_
 
+- [MAQUINA DANCE-SAMBA](/MAQUINA_DANCE-SAMBA.pdf)
+  _Enumeración, Ftp, Enum4Linux, Smbmap, Id_rsa, Escalada de privilegios_
+
 ##  Objetivo del repositorio
 
 - Documentar y entender cada fase del pentesting.
