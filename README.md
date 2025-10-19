@@ -175,6 +175,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA DANCE-SAMBA](/MAQUINA_DANCE-SAMBA.pdf)
   _Enumeración, Ftp, Enum4Linux, Smbmap, Id_rsa, Escalada de privilegios_
 
+- [MAQUINA MEMESPLOIT](/MAQUINA_MEMESPLOIT.pdf)
+  _Enumeración, Enum4Linux, Smb, Escalada de privilegios_
+
 ##  Objetivo del repositorio
 
 - Documentar y entender cada fase del pentesting.
