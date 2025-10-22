@@ -181,6 +181,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA MAPACHE2](/MAQUINA_MAPACHE2.pdf)
   _Enumeración, Gobuster, Cewl, Hydra,  Escalada de privilegios_
 
+- [MAQUINA RUTAS](/MAQUINA_RUTAS.pdf)
+  _Enumeración, Ftp, Zip2john, John, Strighide, Gobuster, Burp Suite, Wfuzz, Reverse Shell, LinPeas,  Escalada de privilegios_
+
 ##  Objetivo del repositorio
 
 - Documentar y entender cada fase del pentesting.
