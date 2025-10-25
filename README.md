@@ -184,6 +184,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA RUTAS](/MAQUINA_RUTAS.pdf)
   _Enumeración, Ftp, Zip2john, John, Strighide, Gobuster, Burp Suite, Wfuzz, Reverse Shell, LinPeas,  Escalada de privilegios_
 
+- [MAQUINA CHATME](/MAQUINA_CHATME.pdf)
+  _Enumeración, Gobuster, WhatsApp, Reverse Shell, Escalada de privilegios (procmail)_
+
 ##  Objetivo del repositorio
 
 - Documentar y entender cada fase del pentesting.
