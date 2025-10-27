@@ -190,6 +190,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA INJ3CT0RSS](/MAQUINA_INJ3CT0RSS.pdf)
   _Enumeración, SqlInjection, Sqlmap, Zip2john, John, Escalada de privilegios_
 
+- [MAQUINA SITES](/MAQUINA_SITES.pdf)
+  _Enumeración, Wfuzz, Escalada de privilegios_
+
 
 
 ##  Objetivo del repositorio
