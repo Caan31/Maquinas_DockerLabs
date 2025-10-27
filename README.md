@@ -186,6 +186,11 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA CHATME](/MAQUINA_CHATME.pdf)
   _Enumeración, Gobuster, WhatsApp, Reverse Shell, Escalada de privilegios (procmail)_
+  
+- [MAQUINA INJ3CT0RSS](/MAQUINA_INJ3CT0RSS.pdf)
+  _Enumeración, SqlInjection, Sqlmap, Zip2john, John, Escalada de privilegios_
+
+
 
 ##  Objetivo del repositorio
 
