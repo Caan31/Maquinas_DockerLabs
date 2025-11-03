@@ -192,6 +192,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 
 - [MAQUINA SITES](/MAQUINA_SITES.pdf)
   _Enumeración, Wfuzz, Escalada de privilegios_
+  
+- [MAQUINA REPORT](/MAQUINA_REPORT.pdf)
+  _Enumeración, Gobuster, Wfuzz, LFI, Revershe Shell, Php_filter_chain_generator, MySQL, Git, Escalada de privilegios_
 
 
 
