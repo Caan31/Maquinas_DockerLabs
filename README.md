@@ -196,7 +196,9 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA REPORT](/MAQUINA_REPORT.pdf)
   _Enumeración, Gobuster, Wfuzz, LFI, Revershe Shell, Php_filter_chain_generator, MySQL, Git, Escalada de privilegios_
 
-
+- [MAQUINA INCLUSION](/MAQUINA_INCLUSION.pdf)
+  _Enumeración, Gobuster, Hydra, Su_Force, Escalada de privilegios_
+  
 
 ##  Objetivo del repositorio
 
