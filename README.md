@@ -199,6 +199,10 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA INCLUSION](/MAQUINA_INCLUSION.pdf)
   _Enumeración, Gobuster, Hydra, Su_Force, Escalada de privilegios_
   
+- [MAQUINA HACKPENGUIN](/MAQUINA_HACKPENGUIN.pdf)
+  _Enumeración, Gobuster, Steghide, Stegcracker, KeepassJohn, John, Escalada de privilegios_
+  
+
 
 ##  Objetivo del repositorio
 
