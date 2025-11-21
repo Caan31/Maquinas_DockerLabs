@@ -202,7 +202,12 @@ Aquí registro cada reto completado para seguir mi progreso y consolidar conocim
 - [MAQUINA HACKPENGUIN](/MAQUINA_HACKPENGUIN.pdf)
   _Enumeración, Gobuster, Steghide, Stegcracker, KeepassJohn, John, Escalada de privilegios_
   
+- [MAQUINA DEVIL](/MAQUINA_DEVIL.pdf)
+  _Enumeración, Gobuster, Revershe Shell, Escalada de privilegios_
 
+- [MAQUINA ASUCAR](/MAQUINA_ASUCAR.pdf)
+  _Enumeración, Nuclei, Hydra, Escalada de privilegios_
+  
 
 ##  Objetivo del repositorio
 
